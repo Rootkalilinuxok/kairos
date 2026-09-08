@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Local tooling and generated state
+.sites-runtime/
+.wrangler/
+*.tsbuildinfo
+
+# Local environment files
+.env*
+!.env.example
+
+# Logs and editor metadata
+*.log
+.DS_Store
